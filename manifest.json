@@ -2,7 +2,7 @@
   "name": "How Loud?!",
   "short_name": "HowLoud",
   "description": "Real-time volume meter with funny commentary",
-  "start_url": "./decibel-meter.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
